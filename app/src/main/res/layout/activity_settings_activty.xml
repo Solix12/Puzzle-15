@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bac"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".ui.SettingsActivty">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/text_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:fontFamily="@font/acme"
+            android:text="@string/music_off"
+            android:textColor="#fff"
+
+            android:textSize="34sp" />
+
+        <Switch
+            android:id="@+id/sound_off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="5dp"
+            tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="60dp"
+        android:weightSum="3">
+
+        <ImageView
+            android:id="@+id/main_bac1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/main_bac" />
+
+        <ImageView
+            android:id="@+id/main_bac2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/main_bac_2" />
+
+        <ImageView
+            android:id="@+id/main_bac3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/main_bac_3" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/clear_btn"
+            android:layout_width="170dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="#00000000"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:text="Clear"
+            android:textColor="#fff"
+            android:textSize="34sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

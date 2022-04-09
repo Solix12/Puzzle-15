@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable-v24/empty_button.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable-v24/ic_stop.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/bag.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/btnbagraund.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/edit_bac.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/empty_button.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/fill_button.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic__5.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_ganles.xml" value="0.25625" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_kok.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_mars.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_oy.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_res.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_rocet.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_saturn.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_stop.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_uran.xml" value="0.25625" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_uran_123.xml" value="0.1" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/ic_yer.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/drawable/main_bagraund.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout-land/activity_game3x3.xml" value="0.21516754850088182" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout-land/activity_game4x4.xml" value="0.21516754850088182" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_chose_main.xml" value="0.23369565217391305" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_game3x3.xml" value="0.23369565217391305" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_game4x4.xml" value="0.23369565217391305" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_main1.xml" value="0.18614130434782608" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_main2.xml" value="0.21603260869565216" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_result.xml" value="0.264" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_result2.xml" value="0.21240942028985507" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_result_game.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/layout/activity_settings_activty.xml" value="0.21603260869565216" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Android lessons/Puzzle15/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
